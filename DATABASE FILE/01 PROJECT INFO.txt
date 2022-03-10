@@ -1,0 +1,8 @@
+**Log on to https://codingdiksha.com/ for more projects!***
+
+**Database Name: dailyexpense**
+
+**Developed by https://codingdiksha.com/**
+
+**Recommended PHP Version 5.6 or Newer**
+
